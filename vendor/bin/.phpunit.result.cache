@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"FirstTest::test_second_assertion":3,"FirstTest::third_assertion":3},"times":{"Warning":0.004,"FirstTest::test_second_assertion":0.005,"FirstTest::third_assertion":0,"EmailTest::testCanBeCreatedFromValidEmailAddress":0.003,"EmailTest::testCannotBeCreatedFromInvalidEmailAddress":0.001,"EmailTest::testCanBeUsedAsString":0}}
